@@ -1,4 +1,4 @@
-# Bone Fracture Detection with YOLOv8
+# YOLOv8 Based Fracture Detection Model for Precision Driven Diagnosis in Orthopedic Radiology
 
 This project leverages YOLOv8 for automated bone fracture detection using medical imaging. The model is trained and evaluated on a labeled dataset to achieve high precision and recall.
 ![Traffic Signal Detection](0.png)
