@@ -13,6 +13,8 @@ _2023 7th International Conference on Electronics, Materials Engineering & Nano-
 Source on Kaggle:
 [Bone Fracture Detection: Computer Vision Project](https://www.kaggle.com/datasets/pkdarabi/bone-fracture-detection-computer-vision-project)
 
+NOTE: I have split the train images into two parts due to the storage limitations, please merge them before your processing
+
 ## Project Overview
 The project follows these steps:
 - Dataset preparation and preprocessing
